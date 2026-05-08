@@ -5,7 +5,7 @@
     "resukisu_topic_id": 36
   },
   "z5_sm8550": {
-    "repo": "YuzakiKokuban/android_kernel_samsung_sm8550_Z5",
+    "repo": "292427558/android_kernel_samsung_sm8550_Z5",
     "defconfig": "defconfig",
     "localversion_base": "-android13-Kokuban-Mei-FZB2",
     "lto": "thin",
@@ -225,7 +225,7 @@
     ]
   },
   "tabs10_mt6989": {
-    "repo": "YuzakiKokuban/android_kernel_samsung_mt6989_TabS10",
+    "repo": "292427558/android_kernel_samsung_mt6989_TabS10",
     "defconfig": "defconfig",
     "localversion_base": "-android14-Kokuban-Exusiai-CZB5",
     "supported_ksu": [
